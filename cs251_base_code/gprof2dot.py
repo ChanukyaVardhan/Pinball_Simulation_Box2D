@@ -20,7 +20,6 @@
 
 __author__ = "Jose Fonseca et al"
 
-
 import sys
 import math
 import os.path
